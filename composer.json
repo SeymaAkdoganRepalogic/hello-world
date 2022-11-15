@@ -1,5 +1,5 @@
 {
-    "name": "hello_composer/hello-composer",
+    "name": "hello_composer_abcdef/hello-composer",
     "description": "for testing",
     "minimum-stability": "stable",
     "autoload": {
