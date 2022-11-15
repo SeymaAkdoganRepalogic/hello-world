@@ -1,9 +1,5 @@
 {
     "name": "hello-abcdef/hello-abcdef",
     "description": "for testing",
-    "minimum-stability": "stable",
-    "autoload": {
-        "psr-4": {"test\\HelloWorld\\": "src/"}
-    },
     "require": {}
 }
