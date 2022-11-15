@@ -1,0 +1,9 @@
+{
+    "name": "test/hello-composer",
+    "description": "for testing",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"test\\HelloWorld\\": "src/"}
+    },
+    "require": {}
+}
